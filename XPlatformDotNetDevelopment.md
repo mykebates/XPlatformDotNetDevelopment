@@ -139,7 +139,7 @@ brew install dnvm
 Add dnvm to your bash profile<br>(./bash_profile)
 `source dnvm.sh`
 
-![right autoplay mute loop](tappy.mp4)
+![right autoplay mute](tappy.mp4)
 
 ---
 
@@ -184,6 +184,15 @@ Add dnvm to your bash profile<br>(./bash_profile)
 
 ---
 
+# Yo, what's up
+- Equivalent to a File->New Project
+- Bootstraps the project template with fresh files
+- Gulp - swappable with Grunt
+- Default config and tasks
+- Ready to rock and roll
+
+---
+
 # dnu restore
 # dnu build
 
@@ -194,7 +203,7 @@ Add dnvm to your bash profile<br>(./bash_profile)
 ---
 
 # Note
-If you have previously installed the Yeoman aspnet genertor you will want to make sure you run the install again to get the latest version
+If you have previously installed the Yeoman aspnet generator you will want to make sure you run the install again to get the latest version
 <br>
 `npm install -g generator-aspnet`
 
@@ -306,7 +315,7 @@ Visual Basic support, SignalR 3, Web Pages 4
 ---
 
 # Future for ASP.NET development
-- More desireable for those reluctant devs
+- More desirable for those reluctant devs
 - Huge advantage for CMSs and other platforms
 - Alternative workflows
 - New tooling otherwise never available in Windows
@@ -322,5 +331,4 @@ Visual Basic support, SignalR 3, Web Pages 4
 [Visual Studio Code](https://code.visualstudio.com/)
 [API Portability Analyzer](https://www.microsoft.com/en-us/download/details.aspx?id=42678)
 [Music Store Project](https://github.com/aspnet/MusicStore)
-[Parts Unlimited Project](https://github.com/Microsoft/PartsUnlimited)
 [Music To Code To - Carl Franklin](http://mtcb.pwop.com/)
