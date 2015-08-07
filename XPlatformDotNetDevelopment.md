@@ -1,6 +1,8 @@
 slidenumbers: true
 
 # Cross-Platform .NET Development
+### Tulsa Tech Fest - 2015
+### Myke Bates
 ![fit, original](http://www.thepowerbase.com/wp-content/uploads/2015/04/vso.png)
 
 ---
@@ -320,6 +322,15 @@ Visual Basic support, SignalR 3, Web Pages 4
 - Alternative workflows
 - New tooling otherwise never available in Windows
 
+
+---
+
+![](myke.jpg)
+
+# Thank You!
+[Myke Bates](http://mykebates.com/)
+[@mykebates](http://twitter.com/mykebates/)
+contact@mykebates.com
 
 ---
 
